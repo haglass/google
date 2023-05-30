@@ -44,7 +44,17 @@ button[type="submit"] {
   background-color: #4284f3;
   border: none;
 }
-button[type="submit"]:hover{
-    
+button[type="submit"]:hover {
   background-color: #23498b;
+}
+input[type="button"] {
+  padding: 5px;
+  font-size: 14px;
+  margin-top: 10px;
+  border-radius: 3px;
+  background-color: #fbbc05;
+  border: none;
+}
+input[type="button"]:hover {
+  background-color: #916e04;
 }
